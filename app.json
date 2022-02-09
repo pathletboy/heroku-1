@@ -1,0 +1,18 @@
+{
+    "name": "V2Ray",
+    "description": "Deploy V2ray VLESS on Heroku.",
+    "keywords": ["V2Ray"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "afcdd982-592f-449f-a6b9-f1a59f7b6034"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
+    "repository": "https://github.com/bclswl0827/v2ray-heroku/tree/vless",
+    "stack": "container"
+}
